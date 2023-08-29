@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Wars: Character and their Details Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header-container">
+        <div class="logo-container" style="text-align: left;">
+            <img class="logos" id="star-wars-logo" src="https://seeklogo.com/images/S/Star_Wars-logo-B06952A462-seeklogo.com.png" alt="Logo">
+        </div>
+        
+        <div class="title-container">
+            <h1 class="h1-headers">Character Randomizer</h1>
+        </div>
+
+        <nav class="nav-container">
+            <ul class="navbar-list" id="menu-list">
+                <li class="navbar-links">
+                    <a class="links" href="https://swapi.dev/" target="_blank">swapi.dev</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main class="main-container">
+        <div class="button-container">
+            <button id="randomize-button">Randomize</button>
+
+            <div class="paragraph-container">
+                <p class="paragraphs">Click the button to find a random star wars character and their details.</p>
+            </div>
+        </div>
+
+        <div class="details-container">
+            <h1 class="header">Information and Details</h1>
+
+            <div class="paragraph-container">
+                <p>Name: <span id="name"></span></p>
+                <p>Height: <span id="height"></span></p>
+                <p>Mass: <span id="mass"></span></p>
+                <p>Hair Color: <span id="hair-color"></span></p>
+                <p>Skin Color: <span id="skin-color"></span></p>
+                <p>Eye Color: <span id="eye-color"></span></p>
+                <p>Birth Year: <span id="birth-year"></span></p>
+                <p>Gender: <span id="gender"></span></p>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer-container">
+        <div class="paragraph-container">
+            <p>All info has been taken from swapi.dev Api
+            </p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

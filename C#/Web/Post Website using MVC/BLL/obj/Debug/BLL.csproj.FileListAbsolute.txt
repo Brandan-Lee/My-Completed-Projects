@@ -1,0 +1,56 @@
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\BLL\bin\Debug\BLL.dll
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\BLL\bin\Debug\BLL.pdb
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\BLL\bin\Debug\DAL.dll
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\BLL\bin\Debug\DTO.dll
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\BLL\bin\Debug\DAL.pdb
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\BLL\bin\Debug\DTO.pdb
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\BLL\obj\Debug\BLL.dll
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\BLL\obj\Debug\BLL.pdb
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\BLL\bin\Debug\EntityFramework.dll
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\BLL\bin\Debug\DAL.dll.config
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\BLL\bin\Debug\EntityFramework.xml
+C:\Users\brand\OneDrive\Desktop\Github Projects\OakCourse\BLL\bin\Debug\BLL.dll
+C:\Users\brand\OneDrive\Desktop\Github Projects\OakCourse\BLL\bin\Debug\BLL.pdb
+C:\Users\brand\OneDrive\Desktop\Github Projects\OakCourse\BLL\bin\Debug\DAL.dll
+C:\Users\brand\OneDrive\Desktop\Github Projects\OakCourse\BLL\bin\Debug\DTO.dll
+C:\Users\brand\OneDrive\Desktop\Github Projects\OakCourse\BLL\bin\Debug\EntityFramework.dll
+C:\Users\brand\OneDrive\Desktop\Github Projects\OakCourse\BLL\bin\Debug\DAL.pdb
+C:\Users\brand\OneDrive\Desktop\Github Projects\OakCourse\BLL\bin\Debug\DAL.dll.config
+C:\Users\brand\OneDrive\Desktop\Github Projects\OakCourse\BLL\bin\Debug\DTO.pdb
+C:\Users\brand\OneDrive\Desktop\Github Projects\OakCourse\BLL\bin\Debug\EntityFramework.xml
+C:\Users\brand\OneDrive\Desktop\Github Projects\OakCourse\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\Github Projects\OakCourse\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\Github Projects\OakCourse\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\brand\OneDrive\Desktop\Github Projects\OakCourse\BLL\obj\Debug\BLL.dll
+C:\Users\brand\OneDrive\Desktop\Github Projects\OakCourse\BLL\obj\Debug\BLL.pdb
+E:\Github Projects\OakCourse\BLL\bin\Debug\BLL.dll
+E:\Github Projects\OakCourse\BLL\bin\Debug\BLL.pdb
+E:\Github Projects\OakCourse\BLL\bin\Debug\DAL.dll
+E:\Github Projects\OakCourse\BLL\bin\Debug\DTO.dll
+E:\Github Projects\OakCourse\BLL\bin\Debug\EntityFramework.dll
+E:\Github Projects\OakCourse\BLL\bin\Debug\DAL.pdb
+E:\Github Projects\OakCourse\BLL\bin\Debug\DAL.dll.config
+E:\Github Projects\OakCourse\BLL\bin\Debug\DTO.pdb
+E:\Github Projects\OakCourse\BLL\bin\Debug\EntityFramework.xml
+E:\Github Projects\OakCourse\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Github Projects\OakCourse\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Github Projects\OakCourse\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Github Projects\OakCourse\BLL\obj\Debug\BLL.dll
+E:\Github Projects\OakCourse\BLL\obj\Debug\BLL.pdb
+E:\Github Projects\OakCourse\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Github Projects\OakCourse\BLL\bin\Debug\System.Web.Helpers.dll
+E:\Github Projects\OakCourse\BLL\bin\Debug\System.Web.Mvc.dll
+E:\Github Projects\OakCourse\BLL\bin\Debug\System.Web.Razor.dll
+E:\Github Projects\OakCourse\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Github Projects\OakCourse\BLL\bin\Debug\System.Web.WebPages.dll
+E:\Github Projects\OakCourse\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Github Projects\OakCourse\BLL\bin\Debug\System.Web.Helpers.xml
+E:\Github Projects\OakCourse\BLL\bin\Debug\System.Web.Mvc.xml
+E:\Github Projects\OakCourse\BLL\bin\Debug\System.Web.Razor.xml
+E:\Github Projects\OakCourse\BLL\bin\Debug\System.Web.WebPages.xml
+E:\Github Projects\OakCourse\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Github Projects\OakCourse\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Github Projects\OakCourse\BLL\bin\Debug\BLL.dll.config

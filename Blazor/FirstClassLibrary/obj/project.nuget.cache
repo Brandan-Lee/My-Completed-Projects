@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5yJByISxUWki8zf2QLDJMBzGdW1HWbzaAydc2nz+yAjs7cp8qBGlPSWPFyWpum0aNnI5skj0ddpaGA8EeEKMWg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Spider\\source\\repos\\FirstClassLibrary\\FirstClassLibrary.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'FirstClassLibrary': Invalid framework identifier ''."
+    }
+  ]
+}

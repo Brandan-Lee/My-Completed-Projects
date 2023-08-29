@@ -1,0 +1,26 @@
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\DTO\bin\Debug\DTO.dll
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\DTO\bin\Debug\DTO.pdb
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\DTO\obj\Debug\DTO.dll
+C:\Users\brand\OneDrive\Desktop\Projects\OakCourse\DTO\obj\Debug\DTO.pdb
+E:\Github Projects\OakCourse\DTO\bin\Debug\DTO.dll
+E:\Github Projects\OakCourse\DTO\bin\Debug\DTO.pdb
+E:\Github Projects\OakCourse\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Github Projects\OakCourse\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Github Projects\OakCourse\DTO\obj\Debug\DTO.dll
+E:\Github Projects\OakCourse\DTO\obj\Debug\DTO.pdb
+E:\Github Projects\OakCourse\DTO\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Github Projects\OakCourse\DTO\bin\Debug\System.Web.Helpers.dll
+E:\Github Projects\OakCourse\DTO\bin\Debug\System.Web.Mvc.dll
+E:\Github Projects\OakCourse\DTO\bin\Debug\System.Web.Razor.dll
+E:\Github Projects\OakCourse\DTO\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Github Projects\OakCourse\DTO\bin\Debug\System.Web.WebPages.dll
+E:\Github Projects\OakCourse\DTO\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Github Projects\OakCourse\DTO\bin\Debug\System.Web.Helpers.xml
+E:\Github Projects\OakCourse\DTO\bin\Debug\System.Web.Mvc.xml
+E:\Github Projects\OakCourse\DTO\bin\Debug\System.Web.Razor.xml
+E:\Github Projects\OakCourse\DTO\bin\Debug\System.Web.WebPages.xml
+E:\Github Projects\OakCourse\DTO\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Github Projects\OakCourse\DTO\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Github Projects\OakCourse\DTO\obj\Debug\DTO.csproj.CopyComplete
