@@ -1,0 +1,61 @@
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\bin\Debug\Personel Tracking.exe.config
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\bin\Debug\Personel Tracking.exe
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\bin\Debug\Personel Tracking.pdb
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\bin\Debug\BLL.dll
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\bin\Debug\DAL.dll
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\bin\Debug\BLL.pdb
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\bin\Debug\DAL.pdb
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel Tracking.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel Tracking.csproj.SuggestedBindingRedirects.cache
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel_Tracking.Properties.Resources.resources
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel Tracking.csproj.GenerateResource.cache
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel Tracking.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel Tracking.csproj.CopyComplete
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel Tracking.exe
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel Tracking.pdb
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel_Tracking.FrmDepartment.resources
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel_Tracking.FrmDepartmentList.resources
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel_Tracking.FrmEmployee.resources
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel_Tracking.FrmEmployeeList.resources
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel_Tracking.FrmLogin.resources
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel_Tracking.FrmMain.resources
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel_Tracking.FrmPosition.resources
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel_Tracking.FrmPositionList.resources
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel_Tracking.FrmTask.resources
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel_Tracking.FrmTaskList.resources
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel_Tracking.FrmPermission.resources
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel_Tracking.FrmPermissionList.resources
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel_Tracking.FrmSalary.resources
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\obj\Debug\Personel_Tracking.FrmSalaryList.resources
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\Personel Tracking\bin\Debug\DAL.dll.config
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\bin\Debug\Personel Tracking.exe.config
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\bin\Debug\Personel Tracking.exe
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\bin\Debug\Personel Tracking.pdb
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\bin\Debug\BLL.dll
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\bin\Debug\DAL.dll
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\bin\Debug\BLL.pdb
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\bin\Debug\DAL.pdb
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\bin\Debug\DAL.dll.config
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel Tracking.csproj.AssemblyReference.cache
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel Tracking.csproj.SuggestedBindingRedirects.cache
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel_Tracking.FrmDepartment.resources
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel_Tracking.FrmDepartmentList.resources
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel_Tracking.FrmEmployee.resources
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel_Tracking.FrmEmployeeList.resources
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel_Tracking.FrmLogin.resources
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel_Tracking.FrmMain.resources
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel_Tracking.FrmPermission.resources
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel_Tracking.FrmPermissionList.resources
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel_Tracking.FrmPosition.resources
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel_Tracking.FrmPositionList.resources
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel_Tracking.FrmSalary.resources
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel_Tracking.FrmSalaryList.resources
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel_Tracking.FrmTask.resources
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel_Tracking.FrmTaskList.resources
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel_Tracking.Properties.Resources.resources
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel Tracking.csproj.GenerateResource.cache
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel Tracking.csproj.CoreCompileInputs.cache
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel Tracking.csproj.CopyComplete
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel Tracking.exe
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel Tracking.pdb
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\Personel Tracking\obj\Debug\Personel Tracking.csproj.ResolveComReference.cache

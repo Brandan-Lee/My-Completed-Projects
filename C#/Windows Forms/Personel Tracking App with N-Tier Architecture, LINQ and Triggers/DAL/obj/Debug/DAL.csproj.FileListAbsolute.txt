@@ -1,0 +1,14 @@
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\DAL\bin\Debug\DAL.dll
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\DAL\bin\Debug\DAL.pdb
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\DAL\obj\Debug\DAL.dll
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\DAL\obj\Debug\DAL.pdb
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\DAL\bin\Debug\DAL.dll.config
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\DAL\bin\Debug\DAL.dll.config
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\DAL\bin\Debug\DAL.dll
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\DAL\bin\Debug\DAL.pdb
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\DAL\obj\Debug\DAL.dll
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\DAL\obj\Debug\DAL.pdb

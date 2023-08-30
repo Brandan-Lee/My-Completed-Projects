@@ -1,0 +1,20 @@
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\BLL\bin\Debug\BLL.dll
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\BLL\bin\Debug\BLL.pdb
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\BLL\bin\Debug\DAL.dll
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\BLL\bin\Debug\DAL.pdb
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\BLL\obj\Debug\BLL.dll
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\BLL\obj\Debug\BLL.pdb
+C:\Users\brand\OneDrive\Study\Udemy\Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC\3. Windows Forms\Projects\Personel Tracking\BLL\bin\Debug\DAL.dll.config
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\BLL\bin\Debug\BLL.dll
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\BLL\bin\Debug\BLL.pdb
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\BLL\bin\Debug\DAL.dll
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\BLL\bin\Debug\DAL.pdb
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\BLL\bin\Debug\DAL.dll.config
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\BLL\obj\Debug\BLL.dll
+E:\Github Projects\My-complete-Studies-Repo\Oak Academy Course\Projects\Personel Tracking App with N-Tier Architecture, LINQ and Triggers\BLL\obj\Debug\BLL.pdb
