@@ -8,7 +8,7 @@ while True:
     if user_input == "quit":
         break
 
-    url = f" https://pokeapi.co/api/v2/pokemon/{user_input}"
+    url = f"https://pokeapi.co/api/v2/pokemon/{user_input}"
 
     req = requests.get(url)
 
